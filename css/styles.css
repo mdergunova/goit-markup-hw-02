@@ -96,7 +96,7 @@
   color: var(--text-color-light);
 }
 .invisible-title {
-  color: var(--text-color-light);
+  color: var(--main-background-color);
 }
 .section-list-title {
   font-family: 'Roboto', sans-serif;
